@@ -1,0 +1,12 @@
+Brotli
+dash==1.8.0
+dash-bootstrap-components
+gunicorn
+matplotlib
+numpy
+pandas
+requests
+scipy
+selenium
+selenium-wire
+statsmodels
